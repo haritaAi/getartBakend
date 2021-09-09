@@ -2,14 +2,14 @@
   "name": "getartBack-end",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "engines": {
     "node": "12.22.3",
     "npm": "6.14.13"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
